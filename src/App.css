@@ -1,0 +1,6 @@
+.App {
+  background-image: url("/image.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}

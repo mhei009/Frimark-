@@ -1,0 +1,82 @@
+.body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  margin: 1rem;
+  padding: 1rem;
+  border-radius: 1rem;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  background-color: rgba(255, 255, 255, 0.8);
+  transition: box-shadow 0.5s ease, transform 0.3s ease;
+  width: 100%;
+  max-width: 300px;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.pics {
+  width: 100px;
+  height: auto;
+}
+
+.body h3 {
+  color: #333;
+  margin-top: 0.5rem;
+  text-align: center;
+}
+
+.body div {
+  font-size: 0.9rem;
+  color: #000000;
+
+  padding: 0.5rem;
+  text-align: center;
+}
+
+.body:hover {
+  transform: translateY(-20px);
+}
+
+.price-button {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin-top: 1rem;
+}
+
+.price-button div {
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.Button {
+  text-transform: uppercase;
+  font-weight: bold;
+  border: none;
+  border-radius: 0.5rem;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+.images {
+  width: 200px;
+  height: 200px;
+}
+.Button:hover {
+  background-color: #ffffff;
+  color: #fff;
+}
+
+.chakra-button {
+  background-color: #5d5fef;
+  color: white;
+}
+
+.chakra-button:hover {
+  background-color: #4345d7;
+}

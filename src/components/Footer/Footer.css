@@ -1,0 +1,29 @@
+.contact-button-sticky {
+  position: fixed;
+  top: 98%;
+  right: 10;
+  transform: translateY(-50%);
+}
+.copyright-info {
+  display: flex;
+  justify-content: center;
+}
+
+@media (max-width: 768px) {
+  .copyright-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-bottom: 20px;
+  }
+
+  .Footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  p {
+    font-size: 12px;
+    text-align: center;
+  }
+}

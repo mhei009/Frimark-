@@ -1,0 +1,74 @@
+{
+  "clothes": [
+    {
+      "id": "1",
+      "name": "Rainbow Striped T-shirt",
+      "price": "129.99 SEK:-",
+      "description": "Colorful striped t-shirt made of soft cotton material.",
+      "image": "../clothes/rainbowsweatshirt.webp"
+    },
+    {
+      "id": "2",
+      "name": "Denim Overalls",
+      "price": "245.99 SEK:-",
+      "description": "Classic denim overalls with adjustable straps and pockets.",
+      "image": "../clothes/denimoveralls.webp"
+    },
+    {
+      "id": "3",
+      "name": "Unicorn Hoodie",
+      "price": "190.99 SEK:-",
+      "description": "Adorable unicorn hoodie with a rainbow mane and horn.",
+      "image": "../clothes/unicornhoodie.webp"
+    },
+    {
+      "id": "4",
+      "name": "Polka Dot Dress",
+      "price": "149.99 SEK:-",
+      "description": "Cute polka dot dress with a bow accent.",
+      "image": "../clothes/heartpolkadress.webp"
+    },
+    {
+      "id": "5",
+      "name": "Dinosaur Pajamas",
+      "price": "269.99 SEK:-",
+      "description": "Cozy pajama set featuring dinosaur prints.",
+      "image": "../clothes/dinasourpajama.webp"
+    },
+    {
+      "id": "6",
+      "name": "Space Rocket Sweatshirt",
+      "price": "189.99 SEK:-",
+      "description": "Fun sweatshirt featuring a space rocket design.",
+      "image": "../clothes/spacesweatshirt.webp"
+    },
+    {
+      "id": "7",
+      "name": "Striped Leggings",
+      "price": "99.99 SEK:-",
+      "description": "Comfortable striped leggings for everyday wear.",
+      "image": "../clothes/strippedleggings.webp"
+    },
+    {
+      "id": "8",
+      "name": "Floral Skirt",
+      "price": "130.99 SEK:-",
+      "description": "Pretty floral skirt with an elastic waistband.",
+      "image": "../clothes/flowerskirt.webp"
+    },
+    {
+      "id": "9",
+      "name": "Bear Onesie",
+      "price": "220.99 SEK:-",
+      "description": "Cuddly bear onesie perfect for bedtime.",
+      "image": "../clothes/bearoverall.webp"
+    },
+    {
+      "id": "10",
+      "name": "Raincoat with Hood",
+      "price": "279.99 SEK:-",
+      "description": "Waterproof raincoat with a hood for rainy days.",
+      "image": "../clothes/raincoat.webp"
+    }
+  ]
+}
